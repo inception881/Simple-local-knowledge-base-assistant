@@ -7,9 +7,6 @@
   <img src="https://img.shields.io/badge/Streamlit-1.31.0-red" alt="Streamlit">
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/XR70Ysm.png" alt="KnowledgeGPT Logo" width="180">
-</p>
 
 **KnowledgeGPT** is a powerful Retrieval-Augmented Generation (RAG) chatbot that allows you to chat with your documents. Upload PDFs, Word documents, or text files and ask questions in natural language to get accurate, context-aware responses based on the content of your documents.
 
@@ -22,11 +19,7 @@
 - **🚀 Easy Deployment**: Simple setup with Streamlit web interface
 - **🔒 Privacy-Focused**: Your documents stay on your machine
 
-## 🖼️ Screenshots
 
-<div align="center">
-  <img src="https://i.imgur.com/XR70Ysm.png" alt="KnowledgeGPT Screenshot" width="80%">
-</div>
 
 ## 🛠️ Technology Stack
 
