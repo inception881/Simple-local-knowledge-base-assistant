@@ -1,0 +1,24 @@
+# LangChain Core
+langchain==0.1.4
+langchain-core==0.1.17
+langchain-community==0.0.29
+langchain-text-splitters==0.0.1
+
+# LLM Integration
+langchain-anthropic==0.1.1
+langchain-openai==0.1.1
+
+# Vector Storage
+faiss-cpu==1.7.4
+
+# Document Loaders
+pypdf==4.0.1
+python-docx==1.1.0
+beautifulsoup4==4.12.3
+
+# Web Framework
+streamlit==1.31.0
+
+# Utilities
+pydantic==2.5.0
+python-dotenv==1.0.0
