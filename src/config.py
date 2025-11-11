@@ -23,12 +23,12 @@ class Config:
     # LLM configuration
     ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_LLM_API_KEY")
     ANTHROPIC_BASE_URL = os.getenv("ANTHROPIC_BASE_URL")
-    ANTHROPIC_MODEL_NAME = os.getenv("ANTHROPIC_MODEL_NAME", "claude-3-7-sonnet")
+    ANTHROPIC_MODEL_NAME = os.getenv("ANTHROPIC_MODEL_NAME")
     
     # OpenAI Embedding configuration
     OPENAI_API_KEY = os.getenv("OPENAI_EMBEDDING_API_KEY")
     OPENAI_BASE_URL = os.getenv("OPENAI_EMBEDDING_BASE_URL")
-    OPENAI_EMBEDDING_MODEL = os.getenv("OPENAI_EMBEDDING_MODEL_NAME", "Qwen3-Embedding-4B")
+    OPENAI_EMBEDDING_MODEL = os.getenv("OPENAI_EMBEDDING_MODEL_NAME")
     
     # General configuration
     TEMPERATURE = float(os.getenv("TEMPERATURE", "0.7"))
