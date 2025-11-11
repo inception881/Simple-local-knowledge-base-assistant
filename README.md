@@ -1,4 +1,5 @@
-# 🤖 KnowledgeGPT
+# 🤖 Simple-local-knowledge-base-assistant
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/LangChain-0.1.4-blue" alt="LangChain">
@@ -8,7 +9,7 @@
 </div>
 
 
-**KnowledgeGPT** is a powerful Retrieval-Augmented Generation (RAG) chatbot that allows you to chat with your documents. Upload PDFs, Word documents, or text files and ask questions in natural language to get accurate, context-aware responses based on the content of your documents.
+**Simple-local-knowledge-base-assistant** is a powerful Retrieval-Augmented Generation (RAG) chatbot that allows you to chat with your documents. Upload PDFs, Word documents, or text files and ask questions in natural language to get accurate, context-aware responses based on the content of your documents.
 
 ## ✨ Features
 
@@ -41,7 +42,7 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/knowledgegpt.git
+git clone https://github.com/yourusername/simple-local-knowledge-base-assistant.git
 cd knowledgegpt
 ```
 
@@ -77,7 +78,8 @@ streamlit run app/web_chatbot.py
 ## 🧩 Project Structure
 
 ```
-knowledgegpt/
+
+Simple-local-knowledge-base-assistant/
 ├── app/                          # Application layer
 │   └── web_chatbot.py            # Streamlit web interface
 ├── src/                          # Core source code
